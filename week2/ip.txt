@@ -1,3 +1,4 @@
 I am using the same  server as week 1. The IP address is 67.23.43.64.
+The public web folder is at its default location: /var/www
 
 Have a great day!
