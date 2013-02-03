@@ -1,0 +1,29 @@
+I used  my helloworld server, created in week one for this assignment.
+
+1. How many files are in /user/bin directory?
+   Answer: 479
+   Commands: 
+ 	$ cd /user/bin
+     	$ find . -type f | wc -l
+
+2. Identify the server process with the highest memory usage:
+   Answer: "whoopsie" is using 54.8% memory. It is by far the highest. Most others were under 1%.
+   Commands:
+	$ sudo apt-get install htop
+	$ htop
+
+3. What is your server's timezone?
+   Command:
+	date
+   Output: Sun Feb  3 22:14:00 UTC 2013 at 5:14pm local eastern time
+        It's 5 hours ahead of us meaning it's on Greenwich Mean Time (GMT)
+
+4. How many default groups does your Ubuntu distribution have?
+   Answer: 52
+   Command:
+	$ cat /etc/group -n
+   There were 55 groups. The last three were: jeff, bri and admin which I had created. It stands to reason that the rest are  default groups.
+
+5. Download, un-tar and execute the following PHP file (362.tar) from the command line on your server.
+   What is the output? Bonus: Name the sequence!
+   Command:
