@@ -1,0 +1,16 @@
+sub1.brisuffety.com
+sub2.brisuffety.com
+
+198.101.255.234
+
+
+Notes: I want to apologize for this being late. I got home from class on 
+Tuesday to find my internet was out. The way my bus runs I couldn't go back
+to campus. It remained out through Wednesday. I am not asking for the lateness
+to be excused. I merely want to make note of it.
+
+Everything appears in working order if I go into /etc/hosts and set
+sub1.brisuffety.com and sub2.brisuffety.com to the IP address listed above. 
+I am still waiting for the records to propigate. I have been having trouble 
+with iPage's service the past two weeks. Currently they have taken down my site
+that is normally at brisuffety.com. 
