@@ -14,3 +14,6 @@ sub1.brisuffety.com and sub2.brisuffety.com to the IP address listed above.
 I am still waiting for the records to propigate. I have been having trouble 
 with iPage's service the past two weeks. Currently they have taken down my site
 that is normally at brisuffety.com. 
+
+In the A record screen shot you can see it says sub1 and sub2. This is what 
+iPage's system automatically adjusts sub1.brisuffety.com and sub2.brisuffety.com to.  
