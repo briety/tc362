@@ -1,5 +1,10 @@
-sub1.brisuffety.com
-sub2.brisuffety.com
+Origonal domains. I now longer own brisuffety.com becasue of my former hosting company
+	sub1.brisuffety.com
+	sub2.brisuffety.com
+
+New domains that should work once propigated
+	www.sub1.briety.me
+	www.sub2.briety.me
 
 198.101.255.234
 
